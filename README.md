@@ -1,2 +1,2 @@
-# ad-accoute-warning
-windows ad账号到期发送右键提醒
+# ad-account-warning
+windows ad账号到期发送邮件及钉钉提醒
